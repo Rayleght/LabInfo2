@@ -21,6 +21,7 @@ int main()
         cin >> a;
         switch(a){
         case 1:
+
             cout <<"Ingrese dos numeros enteros para hallar el residuo de la division entre ellos" << endl;
             cin >> A;
             cin >> B;
