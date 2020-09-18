@@ -22,7 +22,7 @@ int main()
         switch(a){
         case 1:
 
-            cout <<"Ingreses dos numeros enteros para hallar el residuo de la division entre ellos" << endl;
+            cout <<"Ingresedt dos numeros enteros para hallar el residuo de la division entre ellos" << endl;
             cin >> A;
             cin >> B;
             C=A%B;
